@@ -10,3 +10,5 @@ and the dataset consists of OFFENSIVE and NOT OFFENSIVE labeled data.
 Evaluation results for the limited number of data:
 
 <img width="416" alt="Screenshot 2023-04-25 at 13 47 01" src="https://user-images.githubusercontent.com/48163702/234254382-5769bd58-a3c1-4cce-a56b-7913c79726ca.png">
+
+*Evaluation code is seperated because of memory limitations.
