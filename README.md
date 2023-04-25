@@ -5,6 +5,7 @@ In this work, hate speech recognition system is implemented in Turkish language.
 This model is a fine-tuned version of YSKartal/bert-base-turkish-cased-turkish_offensive_trained_model and dbmdz/bert-base-turkish-cased.
 
 Used dataset is from https://huggingface.co/datasets/Toygar/turkish-offensive-language-detection
+and the dataset consists of OFFENSIVE and NOT OFFENSIVE labeled data.
 
 Evaluation results for the limited number of data:
 
