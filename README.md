@@ -14,3 +14,5 @@ Evaluation results for the limited number of data:
 *Evaluation code is seperated because of memory limitations.
 
 You can download the turkish_offensive_language.pt file to use the model from: https://drive.google.com/file/d/19uFTLRFKNVDw3wMCnUICbuQR-JW1iI_x/view?usp=share_link
+
+You can use the model directly with model_usage code and turkish_offensive_language.pt file.
